@@ -1,0 +1,8 @@
+.claude
+/.project
+bin/
+target/
+/.settings
+build/
+# PyDev settings created when the repository root is opened as a project
+/.pydevproject*

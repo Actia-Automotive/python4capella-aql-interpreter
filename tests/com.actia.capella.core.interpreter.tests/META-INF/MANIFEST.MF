@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Capella AQL Interpreter Module Tests
+Bundle-SymbolicName: com.actia.capella.core.interpreter.tests
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: ACTIA Automotive SA
+Fragment-Host: com.actia.capella.core.interpreter;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: com.actia.capella.core.interpreter.tests
+Import-Package: org.junit.jupiter.api;version="[5.9.0,6.0.0)"
